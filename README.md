@@ -2,7 +2,9 @@
 Filer frå ulike Pythonkurs i matematikkfaga på Amalie Skram vgs
 
 ### 1T-kurs
-- 29.09.2022: Grunnleggande kurs 1: [Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Utskrift_variablar_vilkaar.ipynb)
+29.09.2022: Grunnleggande kurs 1: 
+- [Tom Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Utskrift_variablar_vilkaar.ipynb)
+- [Fil med løysingar](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/MED-L%C3%98YSING_Utskrift_variablar_vilkaar.ipynb)
 
 :zap: **neste kurs** torsdag 20. oktober - løkker og funksjonar
 
