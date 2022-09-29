@@ -4,6 +4,8 @@ Filer frå ulike Pythonkurs i matematikkfaga på Amalie Skram vgs
 ### 1T-kurs
 - 29.09.2022: Grunnleggande kurs 1: [Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Utskrift_variablar_vilkaar.ipynb)
 
+:zap: **neste kurs** torsdag 20. oktober - løkker og funksjonar
+
 ## :bulb: Tips
 
 Viss du vil lasta ned filene og bruka dei sjølv kan det gjerast enkelt i Jupyter Lab (v. > 3.3.0) ⬇
