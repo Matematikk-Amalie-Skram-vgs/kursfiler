@@ -7,7 +7,9 @@ Filer frå ulike Pythonkurs i matematikkfaga på Amalie Skram vgs
 - [Fil med løysingar](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/MED-L%C3%98YSING_Utskrift_variablar_vilkaar.ipynb)
 
 #### :zap: 20.10.2022: Grunnleggande kurs 2 - løkker og funksjonar :repeat:
-- Her kjem filene til kurset
+- [Tom Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/L%C3%B8kker_og_funksjonar.ipynb)
+- Fil med innhald og løysingar kjem etter kurset
+
 ## :bulb: Tips
 
 Viss du vil lasta ned filene og bruka dei sjølv kan det gjerast enkelt i Jupyter Lab (v. > 3.3.0) :arrow_down:
