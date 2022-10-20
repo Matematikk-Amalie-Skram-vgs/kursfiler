@@ -8,7 +8,7 @@ Filer frå ulike Pythonkurs i matematikkfaga på Amalie Skram vgs
 
 #### :zap: 20.10.2022: Grunnleggande kurs 2 - løkker og funksjonar :repeat:
 - [Tom Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Kurs2%20-%20L%C3%B8kker_og_funksjonar.ipynb)
-- Fil med innhald og løysingar kjem etter kurset
+- [Fil med løysingar](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Kurs2%20-%20L%C3%98YSING%20-%20L%C3%B8kker_og_funksjonar.ipynb)
 
 ## :bulb: Tips
 
