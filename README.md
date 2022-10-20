@@ -3,11 +3,11 @@ Filer frå ulike Pythonkurs i matematikkfaga på Amalie Skram vgs
 
 ### 1T-kurs :rocket:
 #### :zap: 29.09.2022: Grunnleggande kurs 1 - utskrift, variablar og vilkår :printer:
-- [Tom Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Utskrift_variablar_vilkaar.ipynb)
-- [Fil med løysingar](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/MED-L%C3%98YSING_Utskrift_variablar_vilkaar.ipynb)
+- [Tom Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Kurs1%20-%20Utskrift_variablar_vilkaar.ipynb)
+- [Fil med løysingar](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Kurs1%20-%20L%C3%98YSING%20-%20Utskrift_variablar_vilkaar.ipynb)
 
 #### :zap: 20.10.2022: Grunnleggande kurs 2 - løkker og funksjonar :repeat:
-- [Tom Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/L%C3%B8kker_og_funksjonar.ipynb)
+- [Tom Jupyter-fil](https://github.com/Matematikk-Amalie-Skram-vgs/kursfiler/blob/main/Kurs2%20-%20L%C3%B8kker_og_funksjonar.ipynb)
 - Fil med innhald og løysingar kjem etter kurset
 
 ## :bulb: Tips
